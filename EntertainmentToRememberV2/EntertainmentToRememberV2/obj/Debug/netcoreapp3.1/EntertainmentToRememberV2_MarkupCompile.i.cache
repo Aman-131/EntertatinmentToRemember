@@ -1,20 +1,20 @@
 ﻿EntertainmentToRememberV2
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\Anurag\Desktop\Conestoga\SENG8050\Capstone_v2\EntertainmentToRememberV2\EntertainmentToRememberV2\obj\Debug\netcoreapp3.1\
+D:\Conestoga\SEM_1_Conestoga\SENG8050\8050\SENG8050 Project\EntertainmentToRememberV2\Total New\EntertainmentToRememberV2\EntertainmentToRememberV2\EntertainmentToRememberV2\obj\Debug\netcoreapp3.1\
 EntertainmentToRememberV2
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\Anurag\Desktop\Conestoga\SENG8050\Capstone_v2\EntertainmentToRememberV2\EntertainmentToRememberV2\App.xaml
+D:\Conestoga\SEM_1_Conestoga\SENG8050\8050\SENG8050 Project\EntertainmentToRememberV2\Total New\EntertainmentToRememberV2\EntertainmentToRememberV2\EntertainmentToRememberV2\App.xaml
 7963220750
 
-29-135954777
+301707789364
 1921654412462
 MainWindow.xaml;Pages\AddMoviePage.xaml;Pages\AddShowPage.xaml;Pages\AddSongPage.xaml;Pages\HomePage.xaml;Pages\SearchMoviePage.xaml;Pages\SearchSongPage.xaml;
 
-True
+False
 
